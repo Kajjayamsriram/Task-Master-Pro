@@ -103,11 +103,11 @@
   <distributionManagement>
         <repository>
             <id>maven-releases</id>
-            <url>http://54.159.18.23:8081/repository/maven-releases/</url> #Update these nexus urls
+            <url>http://54.159.18.23:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <url>http://54.159.18.23:8081/repository/maven-snapshots/</url> #Update these nexus urls
+            <url>http://54.159.18.23:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
   
